@@ -1,4 +1,4 @@
-## Banco WMC
+## Banco W
 
 Um banco especial para sua família!
 
